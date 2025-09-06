@@ -1,0 +1,29 @@
+# Summary for abdomen-mri-with-contrast-sample-report-1.pdf
+
+- **Page 1 (MRI • ABDOMEN)**: Marked right renal hydronephrosis and hydroureter.
+  - Follow-up: CT scan of the abdomen and pelvis with and without contrast is recommended to evaluate for possible stone or distal obstructing lesion.
+  - Timeframe: —  •  Due by: —  •  Priority: medium  •  Confidence: 0.50
+- **Page 1 (MRI • ABDOMEN)**: Low signal foci in proximal right ureter, likely flow artifact.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 1 (MRI • ABDOMEN)**: Possible septations in distal right ureter.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 2 (MRI • right kidney, right ureter)**: Interval development of marked hydronephrosis hydroureter in the right kidney.
+  - Follow-up: Recommend CT scan of the abdomen and pelvis with and without contrast for further evaluation.
+  - Timeframe: —  •  Due by: —  •  Priority: high  •  Confidence: 0.50
+- **Page 2 (MRI • left kidney)**: Stable mild pelviectasis in the left kidney.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 2 (MRI • pancreas, anastomosis)**: Postoperative change from previous Whipple procedure. No recurrent mass in the pancreas or anastomosis.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 2 (MRI • left hepatic lobe)**: Mild prominence of the biliary ducts in the left hepatic lobe.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 2 (MRI • anterior abdominal wall)**: Anterior abdominal wall hernia contains small bowel without evidence of strangulation or obstruction.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50
+- **Page 2 (MRI • thoracolumbar spine)**: Marked S-shaped scoliosis of the thoracolumbar spine.
+  - Follow-up: —
+  - Timeframe: —  •  Due by: —  •  Priority: low  •  Confidence: 0.50

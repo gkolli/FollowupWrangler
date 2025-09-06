@@ -1,0 +1,15 @@
+patient_id,report_date,modality,body_part,finding,recommended_followup,timeframe,due_by,priority,source_pdf,page,confidence
+JOHN SMITH,2011-01-01,MRI,ABDOMEN,Marked right renal hydronephrosis and hydroureter.,CT scan of the abdomen and pelvis with and without contrast is recommended to evaluate for possible stone or distal obstructing lesion.,,,medium,abdomen-mri-with-contrast-sample-report-1.pdf,1,0.50
+JOHN SMITH,2011-01-01,MRI,ABDOMEN,"Low signal foci in proximal right ureter, likely flow artifact.",,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,1,0.50
+JOHN SMITH,2011-01-01,MRI,ABDOMEN,Possible septations in distal right ureter.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,1,0.50
+,,MRI,"right kidney, right ureter",Interval development of marked hydronephrosis hydroureter in the right kidney.,Recommend CT scan of the abdomen and pelvis with and without contrast for further evaluation.,,,high,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,left kidney,Stable mild pelviectasis in the left kidney.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,"pancreas, anastomosis",Postoperative change from previous Whipple procedure. No recurrent mass in the pancreas or anastomosis.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,left hepatic lobe,Mild prominence of the biliary ducts in the left hepatic lobe.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,anterior abdominal wall,Anterior abdominal wall hernia contains small bowel without evidence of strangulation or obstruction.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,thoracolumbar spine,Marked S-shaped scoliosis of the thoracolumbar spine.,,,,low,abdomen-mri-with-contrast-sample-report-1.pdf,2,0.50
+,,MRI,Brain,Smaller enhancing extra-axial mass suggestive of atypical meningioma overlying right mid temporal lobe measuring 1.3 x 0.6 CM.,,,,low,brain-mri-sample-report-1.pdf,2,1.00
+,,MRI,Brain,Developmental venous anomaly suggested within the left parietal lobe.,,,,low,brain-mri-sample-report-1.pdf,2,1.00
+,,MRI,Paranasal Sinuses,Paranasal sinuses demonstrate mucosal thickening outlining anterior and posterior ethmoid air cells and right and left antrum with hyperplastic polypoid component along the floor.,,,,low,brain-mri-sample-report-1.pdf,2,1.00
+,,XR,Thoracic and Lumbar Spines,Destructive process of the T6 vertebral body and posterior arch. Plasma cell cytoma should be of primary consideration. Differential diagnosis: metastatic carcinoma and multiple myeloma.,referral to an oncologist to include advanced imaging for more specific diagnosis.,,,high,SampleI.pdf,1,1.00
+,,XR,Lumbar Spine,Mild lumbar spondylosis without disc degeneration.,,,,low,SampleI.pdf,1,1.00
